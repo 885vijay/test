@@ -1,0 +1,72 @@
+
+
+h1{color: red;}
+button{
+  margin: 10px;
+  width:90px;
+  height: 35px;
+  font-size: 20px;
+ text-align: center;
+  color: black;
+  background-color: greenyellow;}
+ 
+ #Email{background-color: yellow;
+ border-color: black;
+ height:30px;
+ width: 250px;
+ border-radius:100px;}
+ 
+ #password{background-color: greenyellow;
+ border-color: blue;
+ margin: top;
+ margin:10px;
+ height:30px;
+ width: 250px;
+ border-radius:100px;}
+ 
+#submit{background-color: red;
+color: white;
+}
+
+#feedback{padding:30px;
+border-width:3px;
+border-style:dotted;
+border-radius:20px;
+border-color:red;}
+
+#login {background-color: blue;
+  color:white;
+  border-color: none;
+  border-radius: 50px;
+  margin: 2px;
+}
+
+#signup {border-radius: 50px;
+  margin: 1px;
+  margin: center;
+}
+
+.input {border-color: blue;
+border-width: 3px;
+text-align:center;
+}
+
+h3{text-align: center;
+font-weight: nomal;
+font-family: roboto,Arial, Helvetica, sans-serif;
+text-transform: capitalize;
+}
+
+#hello{border-width: 30px;
+border-color:red;
+padding:10px;
+background-color:yellow;
+height: 100px;
+}
+
+#divid{background-color: red;
+height: 50px;
+  width:210px;
+  border-radius: 50px;
+ 
+}
